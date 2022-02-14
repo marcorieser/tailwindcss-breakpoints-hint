@@ -24,7 +24,7 @@ const breakpointsHint = plugin(function ({ addBase, theme }) {
     ...breakpoints.reduce((acc, current) => {
       acc[`@media (min-width: ${screens[current]})`] = {
         'body::after': {
-          content: `"${current}"`,
+          content: `"${current} (${screens[current]})"`,
         },
       }
       return acc

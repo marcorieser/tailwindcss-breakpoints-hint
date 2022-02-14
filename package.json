@@ -1,6 +1,6 @@
 {
   "name": "@marcorieser/tailwindcss-breakpoints-hint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "author": "Marco Rieser",
   "description": "A Tailwind CSS plugin that shows the active breakpoint.",
