@@ -1,0 +1,15 @@
+{
+  "name": "tailwindcss-breakpoints-hint",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "author": "Marco Rieser",
+  "description": "A Tailwind CSS plugin that shows the active breakpoint.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcorieser/tailwindcss-breakpoints-hint.git"
+  },
+  "peerDependencies": {
+    "tailwindcss": "^3.0.0"
+  }
+}
