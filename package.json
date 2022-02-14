@@ -1,5 +1,5 @@
 {
-  "name": "tailwindcss-breakpoints-hint",
+  "name": "@marcorieser/tailwindcss-breakpoints-hint",
   "version": "0.0.1",
   "main": "src/index.js",
   "author": "Marco Rieser",
@@ -7,9 +7,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcorieser/tailwindcss-breakpoints-hint.git"
+    "url": "git+https://github.com/marcorieser/tailwindcss-breakpoints-hint.git"
   },
   "peerDependencies": {
     "tailwindcss": "^3.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/marcorieser/tailwindcss-breakpoints-hint/issues"
+  },
+  "homepage": "https://github.com/marcorieser/tailwindcss-breakpoints-hint#readme"
 }
