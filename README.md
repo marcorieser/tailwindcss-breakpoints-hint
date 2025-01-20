@@ -3,7 +3,7 @@ A Tailwind CSS plugin that shows the active responsive breakpoint.
 
 ## Install
 
-Requires **Tailwind v3.0** or higher.
+Requires **Tailwind v4.0** or higher.
 
 1. Install the plugin:
 
@@ -11,15 +11,10 @@ Requires **Tailwind v3.0** or higher.
 npm install @marcorieser/tailwindcss-breakpoints-hint --save-dev
 ```
 
-2. Add it to your `tailwind.config.js` file:
+2. Include it in your tailwind configuration file:
 
-```js
-module.exports = {
-  //...
-  plugins: [
-    require('@marcorieser/tailwindcss-breakpoints-hint'),
-  ]
-}
+```css
+@plugin('@marcorieser/tailwindcss-breakpoints-hint')
 ```
 
 ## Usage
