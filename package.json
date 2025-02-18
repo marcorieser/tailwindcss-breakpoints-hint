@@ -11,7 +11,7 @@
     "url": "git+https://github.com/marcorieser/tailwindcss-breakpoints-hint.git"
   },
   "peerDependencies": {
-    "tailwindcss": "^4.0.0-beta.9"
+    "tailwindcss": "^4.0.0"
   },
   "bugs": {
     "url": "https://github.com/marcorieser/tailwindcss-breakpoints-hint/issues"
